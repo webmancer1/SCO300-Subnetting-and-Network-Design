@@ -62,7 +62,6 @@ The project utilizes the **192.168.1.0/24** address space. To optimize efficienc
 📦 SCO300-Subnetting-and-Network-Design
 ├── 📄 SCO300_Assignment.pkt        # Packet Tracer source file
 ├── 📄 Subnet_Design.pdf            # Detailed addressing design and requirements analysis
-├── 📂 Screenshots/                 # CLI output (show ip interface brief, show ip route)
 └── 📄 README.md                    # This file
 ```
 
